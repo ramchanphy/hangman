@@ -1,0 +1,51 @@
+def parts(x):
+    if x==0:
+        print("   ",  "_______")
+        print("   ",  "|     |")
+        print("   ",  "|      ")
+        print("   ",  "|      ")
+        print("   ",  "|      ")
+        print("   ",  "|      ")
+        print("____________  ")
+    if x==1:
+        print("   ",  "_______")
+        print("   ",  "|     |")
+        print("   ",  "|     O")
+        print("   ",  "|      ")
+        print("   ",  "|      ")
+        print("   ",  "|      ")
+        print("____________  ")
+    if x==2:
+        print("   ",  "_______")
+        print("   ",  "|     |")
+        print("   ",  "|     O")
+        print("   ",  "|    /|\ ")
+        print("   ",  "|      ")
+        print("   ",  "|      ")
+        print("____________  ")
+    if x==3:
+        print("   ",  "_______")
+        print("   ",  "|     |")
+        print("   ",  "|     O")
+        print("   ",  "|    /|\ ")
+        print("   ",  "|     |")
+        print("   ",  "|      ")
+        print("____________  ")
+    if x==4:
+        print("   ",  "_______")
+        print("   ",  "|     |")
+        print("   ",  "|     O")
+        print("   ",  "|    /|\ ")
+        print("   ",  "|     | ")
+        print("   ",  "|    / ")
+        print("____________  ")
+    if x==5:
+        print("   ",  "_______")
+        print("   ",  "|     |")
+        print("   ",  "|     O")
+        print("   ",  "|    /|\ ")
+        print("   ",  "|     | ")
+        print("   ",  "|    / \ ")
+        print("____________  ")
+    
+        
